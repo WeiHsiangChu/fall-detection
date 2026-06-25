@@ -2,7 +2,7 @@
 
 This project evaluates a threshold-based fall detection framework using triaxial accelerometer data collected from the WeBe Band wearable device. The goal is to distinguish fall events from activities of daily living (ADLs) while maintaining computational efficiency suitable for real-time embedded deployment.
 
-📄 [Download Full Paper](WeBe_Fall_Detection.pdf)
+📄 [Download Full Paper](Fall_Detection_Paper.pdf)
 
 ---
 
